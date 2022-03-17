@@ -14,6 +14,7 @@ Me gustaria seguir aprendiendo y poder hacer de mi pasión, un estilo de vida.
   <li>Jquery</li>
   <li>Boostrap</li>
   <li>Wordpress</li>
+  <li>Adaptaciones Responsive</li>
   <li>Conocimientos básicos: PHP</li>
   <li>Conocimientos básicos: Adobe Phootoshop</li>
   </ul>
