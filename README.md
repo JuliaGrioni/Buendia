@@ -1,4 +1,8 @@
-<p>  <a href="https://www.linkedin.com/in/lucia-rosales-a070aa90/" title="https://www.linkedin.com/in/julia-grioni-237312229/"> </p>
+<a href="www.linkedin.com/in/julia-grioni-237312229" title="www.linkedin.com/in/julia-grioni-237312229">
+    <img width="25px" src="https://user-images.githubusercontent.com/34134103/144129978-56c1ef8e-53e9-4c0b-b8c1-7a78174e6324.png">
+  </a>
+  &nbsp;
+
 # Hola!
 👋
 
